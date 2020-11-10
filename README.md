@@ -57,9 +57,9 @@ NOTES:
 
 IF you close Dirt5 you need to start again at step 1.
 
-IF you close Simfeedback you need to start at step 2.
+IF you close Simfeedback you need to start at step 6.
 
-IF you close Dirt5MatrixProvider you need to start at step 2.
+IF you close Dirt5MatrixProvider you need to start at step 2 and reload Simfeedback.
 
 IF you stop the profile within Simfeedback you don't need to do anything besides start the profile again.
 
