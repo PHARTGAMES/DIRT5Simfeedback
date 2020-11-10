@@ -28,6 +28,8 @@ Download: https://github.com/PHARTGAMES/DIRT5Simfeedback/tree/master/Releases
 
 3. Copy the contents of the Dirt5TelemetryProvider folder within the Dirt5Simfeedback .zip into your SimFeedback root folder.
 
+4. Run the remove_blocking.bat file in the Simfeedback root folder.
+
 
 USAGE INSTRUCTIONS 
 ==================
