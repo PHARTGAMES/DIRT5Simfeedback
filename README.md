@@ -43,6 +43,7 @@ skoda_fabia_r5 are easy ones.
 4. Once you know you have a match, click the "Initialize!" button and wait for Dirt5MatrixProvider to find the matrix.
 
 5. If it finds the correct matrix the status string will change from "Please Wait" to "Success!" and the live data for the found matrix will be shown in the text box.
+
    If it fails, it's probably that you don't have a match for the selected car, or something has changed in the executable that makes this plugin no longer function. Seek help in #Dirt5 on the SimFeedback owner's Discord.
 
    NOTE: You must leave Dirt5MatrixProvider running for the duration of your game session as it provides the matrix to the Dirt5TelemetryProvider plugin.
@@ -53,9 +54,13 @@ skoda_fabia_r5 are easy ones.
 
 
 NOTES:
+
 IF you close Dirt5 you need to start again at step 1.
+
 IF you close Simfeedback you need to start at step 2.
+
 IF you close Dirt5MatrixProvider you need to start at step 2.
+
 IF you stop the profile within Simfeedback you don't need to do anything besides start the profile again.
 
 
