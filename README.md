@@ -63,6 +63,8 @@ IF you close Dirt5MatrixProvider you need to start at step 2 and reload Simfeedb
 
 IF you stop the profile within Simfeedback you don't need to do anything besides start the profile again.
 
+IF you close Dirt5MatrixProvider make sure that the process is stopped in Task Manager before launching again, or you will have issues.
+
 
 AUTHOR
 ======
